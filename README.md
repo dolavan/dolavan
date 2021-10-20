@@ -1,4 +1,4 @@
-### Olá! Eu sou Dolavan Gomes. 🖐️👨‍🎓 👨‍💻       
+### Olá! Eu sou Dolavan Gomes Silva 👋       
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dolavan.silva)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dolavansilva/)
@@ -17,8 +17,8 @@
 </div>
 
 
-### Cursando 'TECNOLOGIA EM ANALÍSE E DESENVOLVIMENTO DE SISTEMAS'
-### Conclusão Graduação '2022'
+### Cursando 'TECNOLOGIA EM ANALÍSE E DESENVOLVIMENTO DE SISTEMAS' 👨‍💻 
+### Conclusão Graduação '2022' 🎓
 
 
 
