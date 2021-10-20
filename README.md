@@ -17,8 +17,8 @@
 </div>
 
 
-### Universitário - Universidade Nove de Julho 'UNINOVE'.
-### Conclusão Graduação *2022*
+### Cursando 'TECNOLOGIA EM ANALÍSE E DESENVOLVIMENTO DE SISTEMAS'
+### Conclusão Graduação '2022'
 
 
 
