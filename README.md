@@ -8,7 +8,12 @@
 
 ![dolavan GitHub stats](https://github-readme-stats.vercel.app/api?username=dolavan&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolavan)](https://github.com/dolavan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolavan&langs_count=8)](https://github.com/dolavan/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolavan)](https://github.com/dolavan/github-readme-stats)-->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolavan&hide=javascript,html)](https://github.com/dolavan/github-readme-stats)-->
+
+
+
 
 
 
