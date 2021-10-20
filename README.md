@@ -3,7 +3,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dolavan.silva)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dolavansilva/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DolavanS)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/11958762657/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](11958762657)
 
 ![dolavan GitHub stats](https://github-readme-stats.vercel.app/api?username=dolavan&show_icons=true&theme=radical)
 
@@ -18,8 +18,9 @@
 </div>
 
 
-### Universitário - Universidade Nove de Julho 'UNINOVE'
-### Cursando TECNOLOGIA EM ANALÍSE E DESENVOLVIMENTO DE SISTEMAS. 4°SEMESTRE.
+### Universitário - Universidade Nove de Julho 'UNINOVE'.
+### Conclusão Graduação *2022*
+
 
 
 
