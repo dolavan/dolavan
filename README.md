@@ -28,7 +28,7 @@
 </div>
 
 
-### Cursando 'TECNOLOGIA EM ANALÍSE E DESENVOLVIMENTO DE SISTEMAS' 👨‍💻 
+### Cursando 'TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS' 👨‍💻 
 ### Conclusão Graduação '2022' 🎓
 
 
