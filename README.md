@@ -30,7 +30,7 @@
   <br/>
   <br/>
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7E4DD2?style=for-the-badge&logo=%3Ebootstrap&logoColor=white">
-  <img align="center" alt="docker" src="https://img.shields.io/badge/docker-2da9ff?style=for-the-badge&logo=%3Edocker&logoColor=white">
+  <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2da9ff?style=for-the-badge&logo=docker&logoColor=white">
   <img align="center" alt="Microsoft" src="https://img.shields.io/badge/.NET-ffffff?style=for-the-badge&logo=%3E.NET&logoColor=black">
 </div>
 
