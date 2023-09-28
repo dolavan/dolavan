@@ -29,7 +29,6 @@
   <img align="center" alt="jenkins" src="https://img.shields.io/badge/jenkins-2d1a07?style=for-the-badge&logo=jenkins&logoColor=white">
   <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-ffffff?style=for-the-badge&logo=%3E.NET&logoColor=black">
   <img align="center" alt="bootstrape" src="https://img.shields.io/badge/bootstrap-7E4DD2?style=for-the-badge&logo=%3Ebootstrap&logoColor=white">
-  https://img.shields.io/badge/bootstrap-7E4DD2?style=for-the-badge&logo=%3Ebootstrap&logoColor=white
 
 
 ### Formado 'TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS' 👨‍💻 
