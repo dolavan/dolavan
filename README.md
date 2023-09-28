@@ -27,7 +27,7 @@
   <img align="center" alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="jenkins" src="https://img.shields.io/badge/jenkins-CC2927?style=for-the-badge&logo=jenkins&logoColor=white">
-  <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=%3E.NET&logoColor=black">
+  <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-ffffff?style=for-the-badge&logo=%3E.NET&logoColor=black">
 
 
 ### Formado 'TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS' 👨‍💻 
