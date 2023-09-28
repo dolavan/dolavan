@@ -21,19 +21,17 @@
 
 ### Tecnologias: 
 
-<div>
+
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="jenkins" src="https://img.shields.io/badge/jenkins-2d1a07?style=for-the-badge&logo=jenkins&logoColor=white">
-  <br/>
-  <br/>
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-7E4DD2?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2da9ff?style=for-the-badge&logo=docker&logoColor=white">
   <img align="center" alt="Microsoft" src="https://img.shields.io/badge/.NET-ffffff?style=for-the-badge&logo=%3E.NET&logoColor=black">
-</div>
+
 
 <!--### Formado 'TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS' 👨‍💻--> 
 ### Conclusão Graduação '2022' 🎓
