@@ -35,7 +35,7 @@
   <img align="center" alt="Microsoft" src="https://img.shields.io/badge/.NET-ffffff?style=for-the-badge&logo=%3E.NET&logoColor=black">
 </div>
 
-### Formado 'TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS' 👨‍💻 
+<!--### Formado 'TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS' 👨‍💻--> 
 ### Conclusão Graduação '2022' 🎓
 
 
