@@ -31,7 +31,7 @@
   <br/>
   <br/>
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7E4DD2?style=for-the-badge&logo=%3Ebootstrap&logoColor=white">
-  <img align="center" alt="docker" src="https://img.shields.io/badge/docker-2da9ff?style=for-the-badge&logo=%3Edocker&logoColor=white">
+  <img align="center" alt="Docker" src="https://img.shields.io/badge/docker-2da9ff?style=for-the-badge&logo=%3Edocker&logoColor=white">
 </div>
 
 ### Formado 'TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS' 👨‍💻 
