@@ -28,8 +28,8 @@
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="jenkins" src="https://img.shields.io/badge/jenkins-2d1a07?style=for-the-badge&logo=jenkins&logoColor=white">
   <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-ffffff?style=for-the-badge&logo=%3E.NET&logoColor=black">
-  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7E4DD2?style=for-the-badge&logo=%3Ebootstrap&logoColor=white">
-
+  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-7E4DD2?style=for-the-badge&logo=%3Ebootstrap&logoColor=white">
+</div>
 
 ### Formado 'TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS' 👨‍💻 
 ### Conclusão Graduação '2022' 🎓
