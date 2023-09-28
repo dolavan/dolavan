@@ -1,12 +1,11 @@
 ### Olá! Eu sou Dolavan Gomes Silva 👋 
 ### Analista de sistemas - NovaTela Solutions
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dolavan-gomes-silva-3aa082224/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dolavan-gomes-silva-3aa082224/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dolavan.silva)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dolavansilva/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DolavanS)
 [![Site](https://img.shields.io/website?label=novatela.com.br&style=for-the-badge&url=https://www.novatela.com.br/)](https://www.novatela.com.br)
-https://www.linkedin.com/in/dolavan-gomes-silva-3aa082224/
 
 ![dolavan GitHub stats](https://github-readme-stats.vercel.app/api?username=dolavan&show_icons=true&theme=radical)
 
